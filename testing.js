@@ -1,3 +1,4 @@
 const readdata =() =>{
-     console.log("this is data");
+     console.log("this is data ok");
+
 }
